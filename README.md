@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **springBoot**
 
-- 📫 How to reach me **https://mail.google.com/mail/u/1/**
+- 📫 How to reach me **madhukar.reddy326@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
