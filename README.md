@@ -2,8 +2,8 @@
 <h3 align="center">Lead Platform Engineer · Kubernetes · Fintech</h3>
 
 <p align="center">
-  13 years in banking and fintech software. I started as a Java developer
-  and now build and run Kubernetes platforms for regulated workloads.
+  I build and run Kubernetes platforms for regulated banking and fintech
+  workloads, after starting my career as a Java developer.
 </p>
 
 ### What I work on
